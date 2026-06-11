@@ -132,6 +132,7 @@ public class BirdLancher : MonoBehaviour, BirsActions.ILancherActions
                 loadedBird.rigidbody.isKinematic = false;
                 loadedBird.rigidbody.linearVelocity = mouseDelta * launchSpeed;
                 state = BirdState.Shooting;
+                loadedBird.Shoot();
             }
             else
             {

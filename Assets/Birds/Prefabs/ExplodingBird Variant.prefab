@@ -84,6 +84,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   rigidbody: {fileID: 8352582869762927091}
   activationSpeed: 10
+  birdPrefab: {fileID: 4044416151299885661}
   explosionRadius: 3
   explosionStrength: 10
   explosionEffect: {fileID: 6087064484142772486, guid: 0b9d4d9f9922bf842a95369c209a4ede, type: 3}
