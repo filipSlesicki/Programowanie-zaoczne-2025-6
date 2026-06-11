@@ -151,3 +151,4 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::Bird
   rigidbody: {fileID: 3620746555153304293}
   activationSpeed: 30
+  birdPrefab: {fileID: 6670448890225420056}

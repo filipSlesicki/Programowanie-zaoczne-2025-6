@@ -88,6 +88,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   rigidbody: {fileID: 5166388804838611760}
   activationSpeed: 30
+  birdPrefab: {fileID: 5276992427400995597}
 --- !u!54 &5166388804838611760 stripped
 Rigidbody:
   m_CorrespondingSourceObject: {fileID: 3620746555153304293, guid: 66f11c31b4f0950429a3a7f2d655442f, type: 3}
