@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &3740680073764893122
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1903605346055752886, guid: d93f88fc5fb88ef4a9d594b2db4ef300, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1903605346055752886, guid: d93f88fc5fb88ef4a9d594b2db4ef300, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1903605346055752886, guid: d93f88fc5fb88ef4a9d594b2db4ef300, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1903605346055752886, guid: d93f88fc5fb88ef4a9d594b2db4ef300, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1903605346055752886, guid: d93f88fc5fb88ef4a9d594b2db4ef300, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1903605346055752886, guid: d93f88fc5fb88ef4a9d594b2db4ef300, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1903605346055752886, guid: d93f88fc5fb88ef4a9d594b2db4ef300, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1903605346055752886, guid: d93f88fc5fb88ef4a9d594b2db4ef300, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1903605346055752886, guid: d93f88fc5fb88ef4a9d594b2db4ef300, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1903605346055752886, guid: d93f88fc5fb88ef4a9d594b2db4ef300, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2350917448537123961, guid: d93f88fc5fb88ef4a9d594b2db4ef300, type: 3}
+      propertyPath: m_Name
+      value: AtomicBird
+      objectReference: {fileID: 0}
+    - target: {fileID: 3025998512048532370, guid: d93f88fc5fb88ef4a9d594b2db4ef300, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 48b83d5c4dce05847948e0399c65d17c, type: 2}
+    - target: {fileID: 4044416151299885661, guid: d93f88fc5fb88ef4a9d594b2db4ef300, type: 3}
+      propertyPath: activationSpeed
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 4044416151299885661, guid: d93f88fc5fb88ef4a9d594b2db4ef300, type: 3}
+      propertyPath: explosionRadius
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4044416151299885661, guid: d93f88fc5fb88ef4a9d594b2db4ef300, type: 3}
+      propertyPath: explosionStrength
+      value: 10
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: d93f88fc5fb88ef4a9d594b2db4ef300, type: 3}
